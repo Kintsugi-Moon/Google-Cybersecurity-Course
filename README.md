@@ -22,6 +22,10 @@ Each module includes:
 | [Module 5](./Module5_GRC_and_Compliance.md) | Governance, Risk, and Compliance |
 | [Module 6](./Module6_Career_Exploration.md) | Career Exploration & Certification Planning |
 
+## 📖 Glossary
+
+- [Cybersecurity Glossary](./Cybersecurity_Glossary.md)
+
 ## 📌 Purpose
 
 This repository is:
