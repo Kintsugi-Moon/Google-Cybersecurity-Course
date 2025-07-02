@@ -22,6 +22,15 @@ Each module includes:
 | [Module 5](./Module5_GRC_and_Compliance.md) | Governance, Risk, and Compliance |
 | [Module 6](./Module6_Career_Exploration.md) | Career Exploration & Certification Planning |
 
+## 📁 Portfolio Entries
+
+- [Data Leak Analysis - Least Privilege Assessment](./Determine_Appropriate_Data_Handling_Practices_Portfolio_Entry.md)
+- [Access Control Assessment – Accounting Incident](./Improve_Authentication_Authorization_and_Accounting_Portfolio_Entry.md)
+- [Linux File Permissions Portfolio Entry](./Linux_File_Permissions_Portfolio_Entry.md)
+- [SQL Query Portfolio: Apply Filters to SQL Queries](./SQL_Query_Filters_Portfolio_Entry.md)
+- [Vulnerability Assessment Report](./Vulnerability_Assessment_Portfolio_Entry.md)
+
+
 ## 📖 Glossary
 
 - [Cybersecurity Glossary](./Cybersecurity_Glossary.md)
