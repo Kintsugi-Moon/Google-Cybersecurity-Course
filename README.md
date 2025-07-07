@@ -30,6 +30,7 @@ Each module includes:
 - [SQL Query Portfolio: Apply Filters to SQL Queries](./SQL_Query_Filters_Portfolio_Entry.md)
 - [Vulnerability Assessment Report](./Vulnerability_Assessment_Portfolio_Entry.md)
 - [Parking Lot USB Exercise](./Parking_Lot_USB_Exercise_Portfolio_Entry.md)
+- [PASTA Threat Modeling Worksheet – Sneaker Company Mobile App](./PASTA_Threat_Modeling_Worksheet_Portfolio_Entry.md)
 
 
 ## 📖 Glossary
