@@ -53,6 +53,12 @@ This repository is:
 
 Feel free to use and adapt for personal or educational purposes. If you share or fork this, giving credit is appreciated.
 
+## 📘 Incident Handler's Journal Template
+
+This is a sample cybersecurity incident response journal entry, created as part of the Google Cybersecurity Certificate coursework.
+
+- [Incident Handler's Journal Template - Google Doc](https://docs.google.com/document/d/1LTPAlzfTH_2pB5qk_l5BZ5uCJOwpS06XI9zIH9tWBhU/edit?usp=sharing)
+
 ---
 
 🧠 *Cybersecurity is a journey. Documenting it makes you stronger.*
