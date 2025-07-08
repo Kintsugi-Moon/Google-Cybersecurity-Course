@@ -31,7 +31,12 @@ Each module includes:
 - [Vulnerability Assessment Report](./Vulnerability_Assessment_Portfolio_Entry.md)
 - [Parking Lot USB Exercise](./Parking_Lot_USB_Exercise_Portfolio_Entry.md)
 - [PASTA Threat Modeling Worksheet – Sneaker Company Mobile App](./PASTA_Threat_Modeling_Worksheet_Portfolio_Entry.md)
-
+- [Incident Handler's Journal Entry](./Incident_Handler_Journal_Entry.md)
+## 📄 Export Instructions
+To open any entry as a Google Doc or save it as a PDF:
+1. Copy the text from the desired Markdown file.
+2. Paste it into [this Google Doc template](https://docs.google.com).
+3. In Google Docs, choose **File > Download > PDF Document (.pdf)**.
 
 ## 📖 Glossary
 
