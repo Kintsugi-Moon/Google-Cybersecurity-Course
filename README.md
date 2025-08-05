@@ -32,6 +32,23 @@ Each module includes:
 - [Parking Lot USB Exercise](./Parking_Lot_USB_Exercise_Portfolio_Entry.md)
 - [PASTA Threat Modeling Worksheet – Sneaker Company Mobile App](./PASTA_Threat_Modeling_Worksheet_Portfolio_Entry.md)
 - [Incident Handler's Journal Entry](./Incident_Handler_Journal_Entry.md)
+ 
+## 🛡️ IP Address Allow List Cleaner
+
+As part of the Google Cybersecurity Professional Certificate, this project demonstrates how to manage and secure access to a network by programmatically removing unauthorized IP addresses from an allow list using Python.
+
+🔗 [View project files on Google Drive](https://drive.google.com/drive/folders/17U0u7JqV0N4bjj2ZVspsRhzU3JTFZWjJ)
+
+### 📜 Description
+This script:
+- Opens an `allow_list.txt` file
+- Reads and processes the list of allowed IPs
+- Compares it with a `remove_list`
+- Removes any listed IPs found in both
+- Overwrites the allow list with the updated results
+
+Useful for maintaining access control in environments handling sensitive data like healthcare records.
+
 ## 📄 Export Instructions
 To open any entry as a Google Doc or save it as a PDF:
 1. Copy the text from the desired Markdown file.
